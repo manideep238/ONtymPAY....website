@@ -9,7 +9,7 @@ Website created for online banking services
 
 
 
-** project demo video link** - https:
+** project demo video link** - https://ambitious-forest-0438d8f10.5.azurestaticapps.net
 
 # Azure technologies used for project:-
 . static web apps
