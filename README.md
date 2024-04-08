@@ -5,11 +5,11 @@ Website created for online banking services
 ### This static web app is developed for  Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github .
 
 
-**Project Link** - https:
+**Project Link** -  https://ambitious-forest-0438d8f10.5.azurestaticapps.net
 
 
 
-** project demo video link** - https://ambitious-forest-0438d8f10.5.azurestaticapps.net
+** project demo video link** - 
 
 # Azure technologies used for project:-
 . static web apps
