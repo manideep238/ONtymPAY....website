@@ -33,39 +33,46 @@ Website created for online banking services
 
 ## Home page :-
 
-![Screenshot (197)](https://github.com/manideep238/ONtymPAY/assets/163558959/b9c751f3-c87c-4cd8-a2c9-f1fcc12665c6)
+
+![Screenshot (209)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/bf9e5dbd-4378-4f71-b001-624e1256e1a7)
 
    
 
 ### About Us page : -
 
-![Screenshot (206)](https://github.com/manideep238/ONtymPAY/assets/163558959/541a1040-7090-4c00-b00a-6ed1cf216bdf)
+![Screenshot (206)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/d09c63d0-eacb-41b6-9e49-a43e37488c62)
+
 
 
 ## services page :- 
+![Screenshot (201)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/53a0ccb4-2bb3-4aa5-b76f-a47bd20be6db)
 
-![Screenshot (201)](https://github.com/manideep238/ONtymPAY/assets/163558959/e5d9ed84-c288-41ac-985d-3e94fe61189f)
+
 
 ## contact page:-
 
-![Screenshot (202)](https://github.com/manideep238/ONtymPAY/assets/163558959/e044da56-6b75-4797-8693-5f58a1a122f7)
+
+![Screenshot (202)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/cc0ead9c-487a-4c0c-bd6a-cce85ab21f82)
 
 
 ## bot services :-
 
-![Screenshot (203)](https://github.com/manideep238/ONtymPAY/assets/163558959/00b06ed9-669b-4bfc-8e04-e3954f3af0c8)
+![Screenshot (203)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/a686e3dd-288e-47a4-a004-e9c2a601f0c0)
 
 
-### Privacy policy -
+## Privacy policy -
 
-![Screenshot (204)](https://github.com/manideep238/ONtymPAY/assets/163558959/36f07beb-5e2c-4dee-b2e4-f014245319fe)
+
+![Screenshot (204)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/3a53dc40-7d94-49e1-83a6-eb6baaed04c7)
+
 
 
 ## hosting website:- AZURE SERVICES
 
 
 ## Technologies used:-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
+- 
