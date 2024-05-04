@@ -9,7 +9,7 @@ Website created for online banking services
 
 
 
-**project demo video link** - https://youtu.be/-aHSWIObd9k
+**project demo video link** - [https://youtu.be/-aHSWIObd9k](https://youtu.be/Qwo6k658GOI)
 
 # Azure technologies used for project:-
 . static web apps
