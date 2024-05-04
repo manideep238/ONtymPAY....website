@@ -11,6 +11,8 @@ Website created for online banking services
 
 **project demo video link** - [https://youtu.be/-aHSWIObd9k](https://youtu.be/Qwo6k658GOI)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qwo6k658GOI?si=fmdr5N4ux66uGDWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Azure technologies used for project:-
 . static web apps
 . Azure bot service
