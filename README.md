@@ -18,7 +18,9 @@ Website created for online banking services
 . bot management system
 . visual studio
 
-
+# Azure ai services used are:- 
+1.Azure bot service
+2.Language Studio
 
 ## Features :-
 
@@ -28,6 +30,20 @@ Website created for online banking services
 - 
 
 ## Screenshots
+
+## Language studio  screenshots :-
+
+![Screenshot (317)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/4c545c82-b0ba-44a5-9101-a72ef529f24d)
+
+## azure ai services utilised :-
+
+![Screenshot (313)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/443dbd87-c635-4d06-87a5-66ac28259140)
+# checking health of different channels to which i gave access
+
+![Screenshot (319)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/89c00705-6ba0-4880-ae5e-e2fc6324b292)
+
+# Testing in webchat:-
+![Screenshot (320)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/8f07881f-8318-4473-b90c-04b5a9d8483c)
 
 
 
@@ -55,9 +71,12 @@ Website created for online banking services
 ![Screenshot (202)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/cc0ead9c-487a-4c0c-bd6a-cce85ab21f82)
 
 
-## bot services :-
+## azure bot made with azure language  studio :-
+![Screenshot (316)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/af38e715-e614-4db6-85cb-84ffc60a1a74)
 
-![Screenshot (203)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/a686e3dd-288e-47a4-a004-e9c2a601f0c0)
+![Screenshot (315)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/52ea554c-e342-4810-8f3c-f1f235ab1f35)
+
+![Screenshot (314)](https://github.com/manideep238/ONtymPAY....website/assets/163558959/62b08aa7-9865-45e6-8d14-3acf962041f0)
 
 
 ## Privacy policy -
@@ -67,7 +86,7 @@ Website created for online banking services
 
 
 
-## hosting website:- AZURE SERVICES
+## hosting website:- AZURE SERVICES 
 
 
 ## Technologies used:-
@@ -75,4 +94,4 @@ Website created for online banking services
 -CSS
 -Bootstrap
 -JavaScript
-- 
+- Azure bot
